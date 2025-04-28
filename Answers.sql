@@ -1,3 +1,6 @@
+create database ecommerce;
+use ecommerse
+
 create table brand(
     brand_id INT AUTO_INCREMENT PRIMARY KEY
     brand_name VARCHAR(100) NOT NULL
